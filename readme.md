@@ -45,8 +45,8 @@ to-do-list-app/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/MskV0/to-do-list-app.git
-   cd to-do-list-app
+   git clone (https://github.com/MskV0/r-TO-DO.git
+   cd r-TO-DO
    ```
 
 2. Install dependencies:
